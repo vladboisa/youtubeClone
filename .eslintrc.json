@@ -9,7 +9,7 @@
         "*.ts"
       ],
       "parserOptions": {
-        "project": ["tsconfig.(app|spec).json"]
+        "project": ["tsconfig.(app|spec).json","tsconfig.json"]
       },
       "extends": [
         "airbnb-base",
